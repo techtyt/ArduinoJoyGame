@@ -14,6 +14,6 @@ Aka arduino joystick game. It's a simple game with a joystick and LCD display(I2
 - Maybe adjust LCD contrast?
 - When uploading, remove the wire on pin D12(connects to the reset pin) as it seems to prevent uploading the sketch. Reconnect it back(or don't if there is a problem)
 -If you are having problems when D12 and reset pins are connect, remove the wire and reset manually(reset button) after the game is over
+![pinout](https://user-images.githubusercontent.com/85803570/229263534-068eddfd-4710-4380-846f-7724a9d62a88.png)
 
-![pinout](https://user-images.githubusercontent.com/85803570/229263366-eb85c0a2-4b5e-476c-a1fc-e14eb17b2284.png)
 Created with Fritzing
