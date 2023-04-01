@@ -21,6 +21,8 @@ Aka arduino joystick game. It's a simple game with a joystick and LCD display(I2
 - Jumper cables
 - Time library by Michael Margolis
 - LiquidCrystal I2C Library by Frank de Brabander
+
+
 ![pinout](https://user-images.githubusercontent.com/85803570/229263534-068eddfd-4710-4380-846f-7724a9d62a88.png)
 
 Created with Fritzing
