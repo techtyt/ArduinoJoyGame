@@ -1,3 +1,4 @@
+![pinout](https://user-images.githubusercontent.com/85803570/229263366-eb85c0a2-4b5e-476c-a1fc-e14eb17b2284.png)
 # ArduinoJoyGame
 Aka arduino joystick game. It's a simple game with a joystick and LCD display(I2C)
 
